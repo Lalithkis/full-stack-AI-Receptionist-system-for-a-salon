@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-elevenlabs
+livekit-plugins-deepgram
+livekit-plugins-google
+livekit-plugins-silero
+python-dotenv
+requests
+flask
+flask-cors
+twilio
+motor
